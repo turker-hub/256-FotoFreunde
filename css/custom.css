@@ -8,9 +8,13 @@ p::first-letter {
 	color: navy;
 }
 
+.navbar {
+	background-color:rgb(46, 46, 46);
+}
+
 p {
 	color: navy;
-	text-align: left;
+	text-align: center;
 	font-size: 12px;
 }
 	
